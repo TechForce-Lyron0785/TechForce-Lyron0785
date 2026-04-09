@@ -17,22 +17,15 @@ I’ve worked on enterprise-scale platforms serving **120K+ monthly users** and 
 
 ### 🚀 Languages
 
-* JavaScript (ES6+)
-* TypeScript
+* JavaScript (ES6+), TypeScript
 
 ### 🎨 Frontend
 
-* React.js
-* Next.js
-* Vue.js
-* HTML5, CSS3, Modern UI Systems
+* React.js, Next.js, Vue.js, HTML5, CSS3, Modern UI Systems
 
 ### 🔧 Backend
 
-* Node.js
-* Express.js
-* REST APIs
-* GraphQL
+* Node.js, Express.js, REST APIs, GraphQL
 
 ### 🏗️ Architecture & Patterns
 
@@ -45,10 +38,7 @@ I’ve worked on enterprise-scale platforms serving **120K+ monthly users** and 
 
 ### 🗄️ Databases
 
-* PostgreSQL
-* MongoDB
-* MySQL / MariaDB
-* Redis
+* PostgreSQL, MongoDB, MySQL / MariaDB, Redis
 
 ### ☁️ Cloud & DevOps
 
@@ -64,8 +54,7 @@ I’ve worked on enterprise-scale platforms serving **120K+ monthly users** and 
 
 ### 🧪 Testing
 
-* Jest, Cypress
-* Integration & API Testing
+* Jest, Cypress, Integration & API Testing
 
 ---
 
@@ -90,6 +79,13 @@ I’ve worked on enterprise-scale platforms serving **120K+ monthly users** and 
 * Delivering real-world, production-ready applications
 
 ---
+## 🔍 Projects
+
+* https://department-ms.vercel.app/
+* https://wanderlust-1-ieit.onrender.com/
+* https://pixora-nry.vercel.app/
+* https://rent-a-ride-two.vercel.app/
+* https://sensai-bysamee.vercel.app/
 
 ## 📫 Connect With Me
 
